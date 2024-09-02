@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+
+button{
+    text-align: center;
+    border-radius: 50px;
+    background-color: darkblue;
+}
+
+.controle{
+    text-align: center;
+}
+
+.funcionario{
+    text-align: center;
+}
+
+.gerente{
+    text-align: center;
+}
+
+.mensalista{
+    text-align: center;
+}
